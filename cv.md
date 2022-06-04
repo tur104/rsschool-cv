@@ -1,3 +1,5 @@
+<img src="https://rs.school/images/rs_school_js.svg" width="60"> 
+
 ### [rsschool-cv]()
 # Turkot Ilya
 ## My Contact Info:
@@ -28,3 +30,7 @@
 ## Language:
    + English level - A2
    + Russia 
+
+
+   <img src="https://rs.school/images/partners/logo-rs.svg" width="60">
+   
