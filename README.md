@@ -1,1 +1,1 @@
-# [cv](https://tur104.github.io/rsschool-cv/)
+# [cv](https://tur104.github.io/rsschool-cv/cv)
